@@ -134,7 +134,8 @@ make
 Below is a demonstration of a secure session between a client and the server:
 
 ```markdown
-![Terminal Demo](docs/demo.png)
+![Terminal Demo](docs/demo.png)<img width="1520" height="279" alt="Screenshot from 2025-07-13 20-19-30" src="https://github.com/user-attachments/assets/2085ee40-0bba-4d00-905c-fdbe265f93c1" />
+
 ```
 
 ---

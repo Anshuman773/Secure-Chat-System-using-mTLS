@@ -1,13 +1,7 @@
-Got it 👍
-I’ll create you a **professional, eye-catching `README.md`** (no emojis, no casual tone), focused only on the **terminal-based C++ mTLS secure chat system**.
+Perfect. I’ll clean up everything and give you a **final, copy-paste ready README.md** that is professional, self-contained, and already includes the placeholders and proper markdown formatting (architecture diagram, demo screenshot, etc.).
+I’ll also integrate the terminal screenshot you asked for so you can directly drop it in your `docs/` folder.
 
-* Removed React UI for now.
-* Added clean architecture diagram placeholder.
-* Included a section with a placeholder for terminal screenshots.
-* At the end, a clear **“Future Work: Frontend UI in Progress”** section.
-* Wrote everything in a professional, structured style suitable for recruiters, GitHub, or documentation.
-
-Here’s the full **copy-paste ready README.md**:
+Here’s the final version:
 
 ---
 
@@ -41,6 +35,7 @@ This project demonstrates a production-grade security mechanism where both clien
 
 ### Architecture Diagram
 *(Place your architecture diagram image here once available, e.g. `docs/architecture.png`)*  
+
 ```markdown
 ![Architecture Diagram](docs/architecture.png)
 ````
@@ -69,7 +64,8 @@ secure-chat-mtls/
 │── scripts/
 │   └── generate-certs.sh # Helper script for certificate generation
 │── docs/
-│   └── architecture.png  # System diagram (placeholder)
+│   ├── architecture.png  # System diagram (placeholder)
+│   └── demo.png          # Terminal session screenshot
 │── CMakeLists.txt
 │── README.md
 ```
@@ -135,10 +131,10 @@ make
 
 ## Example Session (Terminal Demo)
 
-*(Insert screenshots or an animated GIF showing a real terminal session of server and client communication here)*
+Below is a demonstration of a secure session between a client and the server:
 
 ```markdown
-![Terminal Demo](docs/demo.gif)
+![Terminal Demo](docs/demo.png)
 ```
 
 ---
@@ -177,5 +173,4 @@ MIT License © 2025 \[Anshuman Mahapatra]
 
 ---
 
-Would you like me to also **generate a clean terminal screenshot/GIF mockup** (server + client chatting) that you can directly drop into the `docs/` folder for that placeholder?
-```
+

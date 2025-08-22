@@ -109,11 +109,13 @@ make
 ```
 
 ---
+
 ### Demo Video
 
 A short demonstration video of the system in action is included in the repository:
 
-[![Watch the video]](Saseken - Made with Clipchamp.mp4)
+[![Watch the video](thumb.png)](sasken.mp4)
+
 
 ### Start the Server
 

@@ -83,7 +83,7 @@ secure-chat-mtls/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/secure-chat-mtls.git
+git clone https://github.com/Anshuman773/Secure-Chat-System-using-mTLS.git
 cd secure-chat-mtls
 ```
 
@@ -113,7 +113,7 @@ make
 
 A short demonstration video of the system in action is included in the repository:
 
-[![Watch the video](demo_thumbnail.png)](Saseken - Made with Clipchamp.mp4)
+[![Watch the video]](Saseken.mp4)
 
 ### Start the Server
 
@@ -170,8 +170,5 @@ The terminal-based mTLS secure chat system is **fully functional**.
 
 MIT License © 2025 \[Anshuman Mahapatra]
 
-```
-
----
 
 

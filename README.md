@@ -113,7 +113,7 @@ make
 
 A short demonstration video of the system in action is included in the repository:
 
-[![Watch the video]](Saseken.mp4)
+[![Watch the video]](Saseken - Made with Clipchamp.mp4)
 
 ### Start the Server
 

@@ -29,7 +29,9 @@ This project demonstrates a production-grade security mechanism where both clien
 ````
 
 ### Architecture Diagram
-*(Place your architecture diagram image here once available, e.g. `docs/architecture.png`)*  
+
+![Architecture Diagram](./ChatGPT%20Image%20Jul%2024%2C%202025%2C%2004_11_16%20PM.png)
+ 
 
 ```markdown
 ![Architecture Diagram](docs/architecture.png)
@@ -107,8 +109,11 @@ make
 ```
 
 ---
+### Demo Video
 
-## Usage
+A short demonstration video of the system in action is included in the repository:
+
+[![Watch the video](demo_thumbnail.png)](Saseken - Made with Clipchamp.mp4)
 
 ### Start the Server
 

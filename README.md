@@ -1,7 +1,6 @@
 
----
 
-```markdown
+
 # Secure Chat System with Mutual TLS (mTLS)
 
 A secure, terminal-based chat application developed in **C++** using **mutual TLS (mTLS)** with OpenSSL.  
